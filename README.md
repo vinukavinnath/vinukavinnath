@@ -8,20 +8,19 @@
 </div>
 
 <div align="center" id="badges">
-  <a href="https://www.linkedin.com/in/vinukavinnath" target="_blank">
+  <a href="https://www.linkedin.com/in/vinukavinnath" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAACXBIWXMAAAsTAAALEwEAmpwYAAAByElEQVR4nO2ZP0/CQBjG22scXI2Tiauy+glc3MC4+iX8DA6G9IiDJsYBBhdNHJwcNRGIHY3xjoBCgkTEAUP8A63yt7ymBVQEIq2mvSb3JM/UN5fnd+97N1wFgYuLi4tpSTJdQTKJI5lqCFNwxDLVRExjkkyW/xRexAQ7FhoPt4hJ0P7OuxwedS2FSMAygDk2DIRHRhdkGrUOgInqdnDUs0wqNgAYCI6//G8AvkgazgsaaA0dlIIG8+G0twCUggbfFb/XvAWgNfQ+ALWuewtA8XoHfJG0CWF0IpZXYS584y0A5JIFDoA7OzFM43yf3b2G7YsSpEpVqDbb8FprmaO4dvoAk5sJtgEW9jLw+NaEUbosvsPMTopdgOxLHX5TLK+CxCrAuPIf5dgE0Ntgzv/S4S2sHucheqcOrdtPPrMJsK4U+2omQgk4yVUG6jJPNTYBpreTA+ssHmQH6sq1FnsA7R/fe57aSo5d63oH7K6FOADmHTDFRwjzQ0z5LYT4NWpRo24Otyx4+mkR07JlAON9noHgYFjE9MwygPFzwe3gqGsJX/ktA3S6QIJuhxcx2bAV/rMTIRIw3uedPRNENcbG9s5zcXFxCU7pA5Jwntel+S2tAAAAAElFTkSuQmCC&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/itsme_vinuka/" target="_blank">
+  <a href="https://www.instagram.com/itsme_vinuka/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-F44747?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="https://stackoverflow.com/users/17735043/vinuka-vinnath?tab=profile" target="_blank">
+  <a href="https://stackoverflow.com/users/17735043/vinuka-vinnath?tab=profile" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Stackoverflow-F47F24?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stackoverflow Badge"/>
   </a>
 
-
   <h3>Read my Blogs on Medium</h3>
-  <a href="https://medium.com/@vinukavinnath" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-4C585B?style=for-the-badge&logo=medium&logoColor=white" alt="Instagram Badge"/>
+  <a href="https://medium.com/@vinukavinnath" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Medium-4C585B?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
 </div>
 
@@ -63,7 +62,7 @@ hobbies:
 
 ### :briefcase: My Contributions :
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 32px;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinukavinnath&repo=doitNow&theme=dark" alt="Project 1">
   </a>
@@ -77,9 +76,6 @@ hobbies:
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinukavinnath&repo=library-management&theme=dark" alt="Project 3">
   </a>
 </div>
-
----
-
 
 ---
 
@@ -127,6 +123,5 @@ hobbies:
 <div><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;</div>
 
 ---
-
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving)
