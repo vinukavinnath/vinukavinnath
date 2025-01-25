@@ -1,4 +1,6 @@
 
+![footer](https://capsule-render.vercel.app/api?section=header&type=waving&height=100)
+
 <div id="header" align="center">
 <h3>Hi There!<img alt="👋🏻" width="30" src="https://media.tenor.com/AUHgwWxTw14AAAAj/dm4uz3-foekoe.gif"></h3>
 <h1>It's me, Vinuka!</h1>
@@ -14,6 +16,12 @@
   </a>
   <a href="https://stackoverflow.com/users/17735043/vinuka-vinnath?tab=profile" target="_blank">
     <img src="https://img.shields.io/badge/Stackoverflow-F47F24?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stackoverflow Badge"/>
+  </a>
+
+
+  <h3>Read my Blogs on Medium</h3>
+  <a href="https://medium.com/@vinukavinnath" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-4C585B?style=for-the-badge&logo=medium&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
 
@@ -39,7 +47,39 @@ hobbies:
     ]
 ```
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vinukavinnath&theme=dark)](https://git.io/streak-stats)
+---
+
+### :fire: My Stats :
+
+<div align="center">
+
+  [![GitHub Streak](https://github-readme-streak-stats-two-iota.vercel.app?user=vinukavinnath&theme=dark)](https://git.io/streak-stats)
+
+  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinukavinnath&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+
+</div>
+
+---
+
+### :briefcase: My Contributions :
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinukavinnath&repo=doitNow&theme=dark" alt="Project 1">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danushaMalshan&repo=codesprin7-bugzfree&theme=dark" alt="Project 3">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinukavinnath&repo=nike-landing-page&theme=dark" alt="Project 2">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinukavinnath&repo=library-management&theme=dark" alt="Project 3">
+  </a>
+</div>
+
+---
+
 
 ---
 
@@ -85,3 +125,8 @@ hobbies:
 <!-- Cloud Providers -->
 #### Cloud Platforms
 <div><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;</div>
+
+---
+
+
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving)
